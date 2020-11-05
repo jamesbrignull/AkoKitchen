@@ -1,0 +1,25 @@
+.preview-title {
+  display: flex;
+  justify-content: center;
+  .preview-slogan {
+    font-weight: bold;
+    font-size: 28px;
+    border-bottom: 6px solid green;
+  }
+}
+
+.collection-preview {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30px;
+
+  .title {
+    font-size: 28px;
+    margin-bottom: 25px;
+  }
+
+  .preview {
+    display: flex;
+    justify-content: space-between;
+  }
+}
