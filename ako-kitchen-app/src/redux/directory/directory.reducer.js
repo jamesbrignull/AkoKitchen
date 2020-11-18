@@ -20,12 +20,12 @@ const INITIAL_STATE = {
       linkUrl: "shop/desserts",
     },
     {
-      title: `chef's bundles`,
+      title: "specials",
       imageUrl:
         "https://i.ibb.co/j8n47B6/f5717bff-ee8e-424d-b2aa-5b1ab5b98d90-Filipino-Food-Kamayan-Table-SQ.jpg",
       size: "large",
       id: 4,
-      linkUrl: "shop/chefbundle",
+      linkUrl: "shop/specials",
     },
   ],
 };

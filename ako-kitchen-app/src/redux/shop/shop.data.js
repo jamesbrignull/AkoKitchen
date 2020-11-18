@@ -44,10 +44,10 @@ const SHOP_DATA = {
       },
     ],
   },
-  jackets: {
+  mains: {
     id: 2,
-    title: "Jackets",
-    routeName: "jackets",
+    title: "Mains",
+    routeName: "mains",
     items: [
       {
         id: 7,
@@ -150,27 +150,27 @@ const SHOP_DATA = {
       },
     ],
   },
-  chefBundle: {
+  specials: {
     id: 4,
-    title: `Chef's Bundle`,
-    routeName: "chefbundle",
+    title: "Specials",
+    routeName: "specials",
     items: [
       {
         id: 21,
-        name: "Starter Bundle",
+        name: "Anak Feast",
         imageUrl: "https://i.ibb.co/4sm9HdW/TWT18-1024x683.jpg",
         price: 22,
       },
       {
         id: 22,
-        name: "Mains Bundle",
+        name: "Dako Feast",
         imageUrl:
           "https://i.ibb.co/j8n47B6/f5717bff-ee8e-424d-b2aa-5b1ab5b98d90-Filipino-Food-Kamayan-Table-SQ.jpg",
         price: 45,
       },
       {
         id: 23,
-        name: "Desserts Bundle",
+        name: "Sweet Feast",
         imageUrl: "https://i.ibb.co/S6jLFKw/5550380353-6fbaa58637-o.jpg",
         price: 25,
       },
